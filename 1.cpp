@@ -15,4 +15,6 @@ using namespace std;
 int main(){
    sc1(n);
    cout<<n<<endl;
+
+   cout<<"let's play with merge and pull"<<endl;
 }
